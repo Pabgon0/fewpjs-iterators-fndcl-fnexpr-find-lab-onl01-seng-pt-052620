@@ -1,5 +1,6 @@
 const testVar = {}
 
 function superbowlWin(array) {
-  array.find()
+  let result = array.find(i => i.result === "W")
+  
 }
