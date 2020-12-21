@@ -1,5 +1,5 @@
 const testVar = {}
 
-function superbowlWin() {
-  return "hi"
+function superbowlWin(array) {
+  array.find()
 }
